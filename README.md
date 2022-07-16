@@ -11,10 +11,10 @@
     - Baterias operando a baixo de 23.5v por mais de 5 minutos.   x Operando
     - Intenção direta do usuário em trocar a rede em operação.    x Operando
     
-    ![Imagem exemplo](https://user-images.githubusercontent.com/56358855/179367468-8364eaf5-0fdb-4ec8-b824-53ef5c6ebae0.png)
+  ![Imagem exemplo](https://user-images.githubusercontent.com/56358855/179367468-8364eaf5-0fdb-4ec8-b824-53ef5c6ebae0.png)
 
   Imagem exemplo de como ocorre as ligações.
-  [Link para o thinkercad do projeto ](https://www.tinkercad.com/things/by0GOYtaDOF?sharecode=ksrxNvYdH24I_jZM7gQ_ctvKDwQwvTURNYJnERIHGsk).
+  [Link para o tinkercad do projeto](https://www.tinkercad.com/things/by0GOYtaDOF?sharecode=ksrxNvYdH24I_jZM7gQ_ctvKDwQwvTURNYJnERIHGsk).
   
   
   ## Lista de itens
